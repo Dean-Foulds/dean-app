@@ -5,6 +5,7 @@ module.exports = {
     title: config.siteTitle,
     siteUrl: config.siteUrl,
     description: config.siteDescription,
+    pathPrefix: '/dean-app',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,

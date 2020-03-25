@@ -1,5 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { StaticQuery, graphql } from 'gatsby';
+import VideoBg from 'reactjs-videobg';
+import mp4 from '../images/video.mp4';
 import PropTypes from 'prop-types';
 import { Head, Loader, Nav, Social, Email, Footer } from '@components';
 import styled from 'styled-components';
@@ -98,7 +100,10 @@ const Layout = ({ children, location }) => {
               <Nav isHome={isHome} />
               <Social isHome={isHome} />
               <Email isHome={isHome} />
-
+              <VideoBg>
+                <VideoBg.Source src={mp4} type="video/mp4" />
+              </VideoBg>
+              ;
               <div id="content">
                 {children}
                 <Footer />

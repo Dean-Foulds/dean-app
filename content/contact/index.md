@@ -2,4 +2,4 @@
 title: 'Ping Me'
 ---
 
-Although I'm not currently looking for freelance opportunities, my inbox is always open. Whether for a potential project or just to say hi, I'll try my best to answer your email!
+I am always on the look out for new opportunities, so feel free to contact me.

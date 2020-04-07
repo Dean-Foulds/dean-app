@@ -11,4 +11,4 @@ company: 'Minerva Ballet'
 showInProjects: true
 ---
 
-Custom WordPress theme and e-commerce site built with Timber and WooCommerce for blistabloc, a start-up selling the only reactive shoe insert that prevents blisters from forming.
+Custom Rails application for the London amatuer ballet company.

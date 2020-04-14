@@ -103,7 +103,6 @@ const Layout = ({ children, location }) => {
               <VideoBg>
                 <VideoBg.Source src={mp4} type="video/mp4" />
               </VideoBg>
-              ;
               <div id="content">
                 {children}
                 <Footer />

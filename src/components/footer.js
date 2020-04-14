@@ -108,7 +108,6 @@ const Footer = () => {
           target="_blank"
           rel="nofollow noopener noreferrer">
           <div>Powered by Dean Foulds &copy; 2020</div>
-
           {githubInfo.stars && githubInfo.forks && (
             <StyledGitHubInfo>
               <span>

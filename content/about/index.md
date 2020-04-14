@@ -5,7 +5,7 @@ skills:
   - Python
   - Machine Learning
   - Deep Learning
-  - Panadas
+  - Pandas
   - Geospatial analysis
   - Ruby on Rails
   - TDD/BDD

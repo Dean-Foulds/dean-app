@@ -1,7 +1,7 @@
 ---
 title: 'Hi, my name is'
 name: 'Dean Foulds'
-subtitle: 'Machine learning and Deep Learning.'
+subtitle: 'Machine and Deep Learning.'
 contactText: 'Get in Touch'
 ---
 
